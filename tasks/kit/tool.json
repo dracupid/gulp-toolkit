@@ -1,0 +1,11 @@
+{
+	"compiler": {
+		".coffee": "gulp-coffee",
+		".less": "gulp-less"
+	},
+	"compressor": {
+		".js": "gulp-uglify",
+		".css": "gulp-minify-css",
+		".html": "gulp-minify-html"
+	}
+}
