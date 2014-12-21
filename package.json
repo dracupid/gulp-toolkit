@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/dracupid/gulp-toolkit",
   "dependencies": {
+    "colors": "^1.0.3",
     "gulp": "^3.8.10",
     "gulp-util": "^3.0.1",
     "through2": "^0.6.3"

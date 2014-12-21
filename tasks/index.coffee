@@ -1,6 +1,7 @@
-require 'color'
+require 'colors'
 
-kit = require './kit/kit'
-
-opts = kit.opts
+require './script'
+require './markup'
+require './server'
+require './style'
 
